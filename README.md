@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/v-guacui/learningproject/_apis/build/status/SimonWicre.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/v-guacui/learningproject/_apis/build/status/SimonWicre.pipelines-dotnet-core?branchName=master)
+[![Build Status](https://dev.azure.com/v-guacui/learningproject/_apis/build/status/SimonWicre.pipelines-dotnet-core?branchName=master)]
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
